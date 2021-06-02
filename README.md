@@ -15,7 +15,7 @@ Muito mais informações e especificações em cashcash.digital. Junte-se à com
 <!--- Remove this description and sections that do not apply -->
 
 This issue tracker is only for technical issues related to CashCash Core.
-General CashCash questions and/or support requests and are best directed to the [CashCash Discord](https://discord.cashcash.org).
+General CashCash questions and/or support requests and are best directed to the [CashCash Web](https://cashcash.digital).
 
 ### Describe the issue
 
