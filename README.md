@@ -14,8 +14,8 @@ O que é CashCash? CashCash é um criptomoeda de código aberto voltado para a c
 Muito mais informações e especificações em cashcash.digital. Junte-se à comunidade sem CashCash Discord.
 <!--- Remove this description and sections that do not apply -->
 
-This issue tracker is only for technical issues related to CashCash Core.
-General CashCash questions and/or support requests and are best directed to the [CashCash Web](https://cashcash.digital).
+This  issue tracker is only for technical issues related to CashCash Core.
+General CashCash questions and/or support requests and are best directed to the [CashCash Web](https://csbitcoin.org).
 
 ### Describe the issue
 
